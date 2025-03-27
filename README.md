@@ -1,10 +1,8 @@
 # Hi there 👋  
 I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Computer Science** at the **University of Colorado Boulder**. I specialize in **Full-Stack Development, DevOps, AI/ML, and Cloud Technologies**, with a strong focus on automation, performance optimization, and scalable software solutions.
 
----
-
 ## 🔭 **Current Focus**
-- Master's in Computer Science (2024-2026) | GPA: 4.00/4.00
+- Master's in Computer Science (Aug 2024 - May 2026) | GPA: 4.00/4.00
 - Exploring Deep Learning (LSTMs, CNNs, Transformers) and Cloud Computing
 - Building innovative, scalable, and efficient software systems
 
