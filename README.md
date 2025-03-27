@@ -1,14 +1,12 @@
 # Hi there 👋  
 I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Computer Science** at the **University of Colorado Boulder**. I specialize in **Full-Stack Development, DevOps, AI/ML, and Cloud Technologies**, with a strong focus on automation, performance optimization, and scalable software solutions.
 
----
 
 ## 🔭 **Current Focus**
 - **Master's in Computer Science (2024-2026) | GPA: 4.00/4.00**
 - Exploring **Deep Learning (LSTMs, CNNs, Transformers)** and **Cloud Computing**
 - **Building intelligent, scalable, and efficient software systems**
 
----
 
 ## 🌟 **Professional Experience**
 ### **Software Engineer | Optum**
@@ -29,7 +27,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Led automation initiatives** by identifying inefficiencies and streamlining workflows.
 - **Collaborated with cross-functional teams** to implement **enterprise-scale automation solutions**.
 
----
 
 ## 🚀 **Key Projects**
 ### **AI Photo Management System** (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
@@ -47,15 +44,12 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Integrated PayPal API** for seamless transactions and enhanced user experience.
 [GitHub Link](https://github.com/Mopidevi18/dealmart)
 
----
 
 ## 🛠️ **Technical Skills**
 - **Languages**: Python, Java, JavaScript, Golang, C++, PowerShell, Bash, C, MATLAB  
 - **Web Development**: Node.js, React.js, Express.js, Django, SQL, MongoDB, MySQL, Redis  
 - **Cloud & DevOps**: Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
 - **Big Data & AI/ML**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, OpenCV  
-
----
 
 ## 💬 **Let’s Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
