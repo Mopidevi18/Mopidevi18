@@ -24,11 +24,10 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Merged Control-M jobs**, leading to a **33% cost reduction**.
 - Worked cross-functionally to **automate workflows**, reducing manual effort by **90%**.
 
-
-## Leadership & Awards
-
-- **PIONEER Award (2022)** for optimizing Control-M jobs and improving operational efficiency.  
-- Led automation initiatives, collaborating with cross-functional teams to streamline workflows and eliminate manual effort.
+## 🎯 **Achievements & Leadership**
+- **PIONEER Award (2022)**: Recognized for **Control-M job optimization** leading to efficiency & cost savings.
+- **Led automation initiatives** by identifying inefficiencies and streamlining workflows.
+- **Collaborated with cross-functional teams** to implement **enterprise-scale automation solutions**.
 
 ---
 
@@ -36,14 +35,19 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ### **AI Photo Management System** (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
 - Built an **AI-powered photo management system** with **Google Vision API** for face recognition.
 - Designed **scalable microservices** with **Docker & Kubernetes** on **Google Cloud**.
+[GitHub Link](https://github.com/Mopidevi18/ai-photo-management-system)
 
 ### **Emotion Classification using EEG Data** (*Python, JavaScript, PyTorch, Scikit-learn, Flask*)
 - Developed an **LSTM-based deep learning model** with **wavelet features**, achieving **86% accuracy**.
 - **Deployed a Flask web app** for real-time **emotion recognition**.
+[GitHub Link](https://github.com/Mopidevi18/emotion-classification-eeg)
 
 ### **Dealmart** (*MERN Stack - MongoDB, Express.js, React.js, Node.js*)
 - Implemented a **dynamic eCommerce platform** with **real-time order tracking** and **advanced search**.
 - **Integrated PayPal API** for seamless transactions and enhanced user experience.
+[GitHub Link](https://github.com/Mopidevi18/dealmart)
+
+---
 
 ## 🛠️ **Technical Skills**
 - **Languages**: Python, Java, JavaScript, Golang, C++, PowerShell, Bash, C, MATLAB  
@@ -51,10 +55,7 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Cloud & DevOps**: Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
 - **Big Data & AI/ML**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, OpenCV  
 
-## 🎯 **Achievements & Leadership**
-- **PIONEER Award (2022)**: Recognized for **Control-M job optimization** leading to efficiency & cost savings.
-- **Led automation initiatives** by identifying inefficiencies and streamlining workflows.
-- **Collaborated with cross-functional teams** to implement **enterprise-scale automation solutions**.
+---
 
 ## 💬 **Let’s Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
