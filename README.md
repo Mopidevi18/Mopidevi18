@@ -52,4 +52,4 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - 🔗 [GitHub](https://github.com/Mopidevi18)  
 - 📧 Email: vemo1144@colorado.edu  
 
-⚡ **Fun Fact**: I thrive on **solving complex problems** and **optimizing workflows** with intelligent automation! 🚀
+⚡ **Fun Fact**: I thrive on solving complex problems, optimizing workflows with intelligent automation, and writing blogs on topics that interest me! 🚀
