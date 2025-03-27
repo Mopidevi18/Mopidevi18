@@ -6,8 +6,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - Exploring Deep Learning (LSTMs, CNNs, Transformers) and Cloud Computing
 - Building innovative, scalable, and efficient software systems
 
----
-
 ## 🌟 **Professional Experience**
 ### Software Engineer | Optum
 📍 *Hyderabad, India (April 2023 – July 2024)*
@@ -27,7 +25,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Led automation initiatives** by identifying inefficiencies and streamlining workflows.
 - **Collaborated with cross-functional teams** to implement **enterprise-scale automation solutions**.
 
----
 
 ## 🚀 **Key Projects**
 ### [AI Photo Management System](https://github.com/Mopidevi18/ai-photo-management-system) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
@@ -42,7 +39,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - Implemented a **dynamic eCommerce platform** with **real-time order tracking** and **advanced search**.
 - **Integrated PayPal API** for seamless transactions and enhanced user experience.
 
----
 
 ## 🛠️ **Technical Skills**
 - **Languages**: Python, Java, JavaScript, Golang, C++, PowerShell, Bash, C, MATLAB  
@@ -50,7 +46,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Cloud & DevOps**: Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
 - **AI/ML**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, OpenCV  
 
----
 
 ## 💬 **Let’s Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
