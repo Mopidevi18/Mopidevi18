@@ -4,14 +4,14 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 🔭 **Current Focus**
-- **Master's in Computer Science (2024-2026) | GPA: 4.00/4.00**
+- Master's in Computer Science (2024-2026) | GPA: 4.00/4.00
 - Exploring **Deep Learning (LSTMs, CNNs, Transformers)** and **Cloud Computing**
 - **Building innovative, scalable, and efficient software systems**
 
 ---
 
 ## 🌟 **Professional Experience**
-### **Software Engineer | Optum**
+### Software Engineer | Optum
 📍 *Hyderabad, India (April 2023 – July 2024)*
 - **Automated Control-M job tracking**, reducing monitoring time by **95%**.
 - **Optimized report generation pipelines**, improving efficiency by **33%**.
@@ -32,7 +32,7 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 🚀 **Key Projects**
-### **[AI Photo Management System](https://github.com/Mopidevi18/ai-photo-management-system)** (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
+### [AI Photo Management System](https://github.com/Mopidevi18/ai-photo-management-system) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
 - Built an **AI-powered photo management system** with **Google Vision API** for face recognition.
 - Designed **scalable microservices** with **Docker & Kubernetes** on **Google Cloud**.
 
