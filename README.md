@@ -1,10 +1,14 @@
 # Hi there 👋  
-I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Computer Science** at the **University of Colorado Boulder**. I specialize in **Backend Development, AI/ML, and Cloud Technologies**, with a strong focus on automation, performance optimization, and scalable software solutions.
+I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Computer Science** at the **University of Colorado Boulder**. I specialize in **Full-Stack Development, DevOps, AI/ML, and Cloud Technologies**, with a strong focus on automation, performance optimization, and scalable software solutions.
+
+---
 
 ## 🔭 **Current Focus**
 - **Master's in Computer Science (2024-2026) | GPA: 4.00/4.00**
 - Exploring **Deep Learning (LSTMs, CNNs, Transformers)** and **Cloud Computing**
 - **Building intelligent, scalable, and efficient software systems**
+
+---
 
 ## 🌟 **Professional Experience**
 ### **Software Engineer | Optum**
@@ -19,6 +23,14 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - Automated **onboarding document processing**, reducing processing time by **75%**.
 - **Merged Control-M jobs**, leading to a **33% cost reduction**.
 - Worked cross-functionally to **automate workflows**, reducing manual effort by **90%**.
+
+
+## Leadership & Awards
+
+- **PIONEER Award (2022)** for optimizing Control-M jobs and improving operational efficiency.  
+- Led automation initiatives, collaborating with cross-functional teams to streamline workflows and eliminate manual effort.
+
+---
 
 ## 🚀 **Key Projects**
 ### **AI Photo Management System** (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
