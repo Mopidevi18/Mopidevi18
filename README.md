@@ -3,7 +3,7 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 
 ---
 
-## 🔭 **Current Focus**
+## 🔭 Current Focus
 - Master's in Computer Science (2024-2026) | GPA: 4.00/4.00
 - Exploring **Deep Learning (LSTMs, CNNs, Transformers)** and **Cloud Computing**
 - **Building innovative, scalable, and efficient software systems**
