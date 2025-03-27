@@ -4,7 +4,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 🔭 **Current Focus**
-
 - **Master's in Computer Science (2024-2026) | GPA: 4.00/4.00**
 - Exploring **Deep Learning (LSTMs, CNNs, Transformers)** and **Cloud Computing**
 - **Building innovative, scalable, and efficient software systems**
@@ -12,7 +11,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 🌟 **Professional Experience**
-
 ### **Software Engineer | Optum**
 📍 *Hyderabad, India (April 2023 – July 2024)*
 - **Automated Control-M job tracking**, reducing monitoring time by **95%**.
@@ -26,15 +24,14 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 - **Merged Control-M jobs**, leading to a **33% cost reduction**.
 - Worked cross-functionally to **automate workflows**, reducing manual effort by **90%**.
 
-## 🎯 **Achievements & Leadership**
-- **PIONEER Award (2022)**: Recognized for **Control-M job optimization** leading to efficiency & cost savings.
+### 🎯 **Achievements & Leadership**
+-  [2022] Earned the **PIONEER** award for optimizing Control-M jobs, leading to improved efficiency and cost savings.
 - **Led automation initiatives** by identifying inefficiencies and streamlining workflows.
 - **Collaborated with cross-functional teams** to implement **enterprise-scale automation solutions**.
 
 ---
 
 ## 🚀 **Key Projects**
-
 ### **[AI Photo Management System](https://github.com/Mopidevi18/ai-photo-management-system)** (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
 - Built an **AI-powered photo management system** with **Google Vision API** for face recognition.
 - Designed **scalable microservices** with **Docker & Kubernetes** on **Google Cloud**.
@@ -50,7 +47,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 🛠️ **Technical Skills**
-
 - **Languages**: Python, Java, JavaScript, Golang, C++, PowerShell, Bash, C, MATLAB  
 - **Web Development**: Node.js, React.js, Express.js, Django, SQL, MongoDB, MySQL, Redis  
 - **Cloud & DevOps**: Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
@@ -59,7 +55,6 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 ---
 
 ## 💬 **Let’s Connect**
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
 - 🔗 [GitHub](https://github.com/Mopidevi18)  
 - 📧 Email: vemo1144@colorado.edu  
