@@ -27,11 +27,11 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 
 
 ## 🚀 **Key Projects**
-### [AI Photo Management System](https://github.com/Mopidevi18/ai-photo-management-system) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
+### [AI Photo Management System](https://github.com/Mopidevi18/PicSorterAI) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
 - Built an **AI-powered photo management system** with **Google Vision API** for face recognition.
 - Designed **scalable microservices** with **Docker & Kubernetes** on **Google Cloud**.
 
-### **[Emotion Classification using EEG Data](https://github.com/Mopidevi18/emotion-classification-eeg)** (*Python, JavaScript, PyTorch, Scikit-learn, Flask*)
+### **[Emotion Classification using EEG Data](https://github.com/Mopidevi18/EEG_WebApplication)** (*Python, JavaScript, PyTorch, Scikit-learn, Flask*)
 - Developed an **LSTM-based deep learning model** with **wavelet features**, achieving **86% accuracy**.
 - **Deployed a Flask web app** for real-time **emotion recognition**.
 
