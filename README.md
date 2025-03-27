@@ -49,7 +49,7 @@ I'm **Venkateswarlu Mopidevi**, a **Software Engineer and Master's student in Co
 
 ## 💬 **Let’s Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
-- 🔗 [GitHub](https://github.com/Mopidevi18)  
+- 🔗 [Blogs](https://medium.com/@venkateswarlumopidevi18)  
 - 📧 Email: vemo1144@colorado.edu  
 
 ⚡ **Fun Fact**: I thrive on solving complex problems, optimizing workflows with intelligent automation, and writing blogs on topics that interest me! 🚀
