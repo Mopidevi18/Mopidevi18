@@ -6,6 +6,21 @@ I'm **Venkateswarlu Mopidevi**, a Software Engineer and Master's student in Comp
 - Exploring Deep Learning (LSTMs, CNNs, Transformers) and Cloud Computing
 - Building innovative, scalable, and efficient software systems
 
+## 🚀 Key Projects
+
+### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation) (*Python, PyTorch, Flask, Docker, VertexAI, GCP*)
+- Developed a fine-tuned Mask R-CNN model for waste classification using the TACO dataset, targeting plastic, landfill, and organic categories, with robust data preprocessing and augmentation.
+- Implemented an end-to-end MLOps pipeline with Vertex AI Custom Jobs, automated CI/CD via Cloud Build, model versioning in GCS, and serverless deployment on Cloud Run through Dockerized containers.
+
+### [AI Photo Management System](https://github.com/Mopidevi18/PicSorterAI) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
+- Built an AI-powered photo management system with Google Vision API for face recognition.
+- Designed scalable microservices with Docker & Kubernetes on Google Cloud.
+
+### [Dealmart](https://github.com/Mopidevi18/dealmart) (*MERN Stack - MongoDB, Express.js, React.js, Node.js*)
+- Implemented a dynamic eCommerce platform with real-time order tracking and advanced search.
+- Integrated PayPal API for seamless transactions and enhanced user experience.
+
+
 ## 🌟 Professional Experience
 ### Software Engineer | Optum
 📍 *Hyderabad, India (April 2023 – July 2024)*
@@ -24,21 +39,6 @@ I'm **Venkateswarlu Mopidevi**, a Software Engineer and Master's student in Comp
 -  [2022] Earned the PIONEER award for optimizing Control-M jobs, leading to improved efficiency and cost savings.
 - Led automation initiatives by identifying inefficiencies and streamlining workflows.
 - Collaborated with cross-functional teams to implement enterprise-scale automation solutions.
-
-
-## 🚀 Key Projects
-
-### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation) (*Python, PyTorch, Flask, Docker, VertexAI, GCP*)
-- Developed a fine-tuned Mask R-CNN model for waste classification using the TACO dataset, targeting plastic, landfill, and organic categories, with robust data preprocessing and augmentation.
-- Implemented an end-to-end MLOps pipeline with Vertex AI Custom Jobs, automated CI/CD via Cloud Build, model versioning in GCS, and serverless deployment on Cloud Run through Dockerized containers.
-
-### [AI Photo Management System](https://github.com/Mopidevi18/PicSorterAI) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
-- Built an AI-powered photo management system with Google Vision API for face recognition.
-- Designed scalable microservices with Docker & Kubernetes on Google Cloud.
-
-### [Dealmart](https://github.com/Mopidevi18/dealmart) (*MERN Stack - MongoDB, Express.js, React.js, Node.js*)
-- Implemented a dynamic eCommerce platform with real-time order tracking and advanced search.
-- Integrated PayPal API for seamless transactions and enhanced user experience.
 
 
 ## 🛠️ Technical Skills
