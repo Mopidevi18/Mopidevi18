@@ -27,13 +27,14 @@ I'm **Venkateswarlu Mopidevi**, a Software Engineer and Master's student in Comp
 
 
 ## 🚀 Key Projects
+
+### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation) (*Python, PyTorch, Flask, Docker, VertexAI, GCP*)
+- Developed a fine-tuned Mask R-CNN model for waste classification using the TACO dataset, targeting plastic, landfill, and organic categories, with robust data preprocessing and augmentation.
+- Implemented an end-to-end MLOps pipeline with Vertex AI Custom Jobs, automated CI/CD via Cloud Build, model versioning in GCS, and serverless deployment on Cloud Run through Dockerized containers.
+
 ### [AI Photo Management System](https://github.com/Mopidevi18/PicSorterAI) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
 - Built an AI-powered photo management system with Google Vision API for face recognition.
 - Designed scalable microservices with Docker & Kubernetes on Google Cloud.
-
-### [Emotion Classification using EEG Data](https://github.com/Mopidevi18/EEG_WebApplication) (*Python, JavaScript, PyTorch, Scikit-learn, Flask*)
-- Developed an LSTM-based deep learning model with wavelet features, achieving 86% accuracy.
-- Deployed a Flask web app for real-time emotion recognition.
 
 ### [Dealmart](https://github.com/Mopidevi18/dealmart) (*MERN Stack - MongoDB, Express.js, React.js, Node.js*)
 - Implemented a dynamic eCommerce platform with real-time order tracking and advanced search.
