@@ -10,24 +10,14 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mopidevi18&theme=tokyonight&row=2&column=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mopidevi18&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Mopidevi18&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mopidevi18&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mopidevi18&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mopidevi18&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mopidevi18&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mopidevi18&theme=tokyonight"/>
-</p>
 
 ---
 
