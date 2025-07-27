@@ -41,7 +41,7 @@
 
 ### 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.com/u/venky1845?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcode.com/u/venky1845/Mopidevi18?theme=dark&font=Karma&ext=contest)
 
 ---
 
