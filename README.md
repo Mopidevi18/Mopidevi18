@@ -25,9 +25,9 @@
 
 ####  Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ####  Backend & Databases
@@ -59,29 +59,18 @@
 
 ### 📈 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/venky1845?theme=dark&font=Karma&ext=contest)](https://leetcode.com/venky1845/)
-
+<p align="center">
+    [![LeetCode Stats](https://leetcard.jacoblin.cool/venky1845?theme=dark&font=Karma&ext=contest)](https://leetcode.com/venky1845/)
+</p>
 ---
 
-### 💼 Projects
+### Projects
 
-#### 🔗 [AI Budget Builder Chatbot](https://github.com/Mopidevi18/AI-Budget-Builder)
-- A smart assistant to help users track and plan budgets.
-- Integrated with Plaid for financial data.
-- Uses OpenAI + LangChain for natural interactions.
+#### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation)
+Built an end-to-end **instance segmentation system** to detect and classify various types of trash in real-world images using a **Mask R-CNN** model trained on the **TACO dataset**. Designed and deployed a scalable **MLOps pipeline** using **Vertex AI**, **Docker**, and **Cloud Run** for automated model serving and continuous integration.
 
-#### 🔗 [ServiceNow Ticket Automation](https://github.com/Mopidevi18/servicenow-automation)
-- Automated resolution of repetitive ServiceNow tickets using AI.
-- Includes RAG + LLM + vector search (FAISS).
+**Tech Stack:** `Python` · `PyTorch` · `Mask R-CNN` · `Vertex AI` · `Docker` · `GCP` · `CI/CD`
 
----
 
-### 🏆 Achievements & Highlights
-- ✅ 3.5+ years of software engineering experience
-- 🎯 Built full-stack systems using Next.js, FastAPI, and Supabase
-- 🤖 Passionate about AI Agents, RAG, and LLMs
-- 📍 Based in Boulder, Colorado
 
----
 
-_**Let’s connect and build something amazing together!**_
