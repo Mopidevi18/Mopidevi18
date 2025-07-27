@@ -22,8 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mopidevi18&theme=tokyonight" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mopidevi18&theme=tokyonight" alt="Contribution Graph"/>
 </p>
+
 ---
 
 ### 🧰 Tech Stack
