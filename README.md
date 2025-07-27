@@ -1,56 +1,66 @@
-# Hi there 👋  
-I'm **Venkateswarlu Mopidevi**, a Software Engineer and Master's student in Computer Science at the University of Colorado Boulder. I specialize in Full-Stack Development, DevOps, AI/ML, and Cloud Technologies, with a strong focus on automation, performance optimization, and scalable software solutions.
+<h1 align="center">Hi 👋, I'm Venkateswarlu Mopidevi</h1>
+<p align="center">
+  <a href="https://github.com/Mopidevi18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## 🔭 Current Focus
-- Master's in Computer Science (Aug 2024 - May 2026) | GPA: 4.00/4.00
-- Exploring Deep Learning (LSTMs, CNNs, Transformers) and Cloud Computing
-- Building innovative, scalable, and efficient software systems
+---
 
-## 🚀 Key Projects
+### 🚀 GitHub Analytics
 
-### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation) (*Python, PyTorch, Flask, Docker, VertexAI, GCP*)
-- Developed a fine-tuned Mask R-CNN model for waste classification using the TACO dataset, targeting plastic, landfill, and organic categories, with robust data preprocessing and augmentation.
-- Implemented an end-to-end MLOps pipeline with Vertex AI Custom Jobs, automated CI/CD via Cloud Build, model versioning in GCS, and serverless deployment on Cloud Run through Dockerized containers.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mopidevi18&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mopidevi18&layout=compact&theme=tokyonight)
 
-### [AI Photo Management System](https://github.com/Mopidevi18/PicSorterAI) (*Python, Node.js, React.js, Docker, Kubernetes, GCP, Redis*)
-- Built an AI-powered photo management system with Google Vision API for face recognition.
-- Designed scalable microservices with Docker & Kubernetes on Google Cloud.
+---
 
-### [Dealmart](https://github.com/Mopidevi18/dealmart) (*MERN Stack - MongoDB, Express.js, React.js, Node.js*)
-- Implemented a dynamic eCommerce platform with real-time order tracking and advanced search.
-- Integrated PayPal API for seamless transactions and enhanced user experience.
+### 🧰 Tech Stack
 
+#### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌟 Professional Experience
-### Software Engineer | Optum
-📍 *Hyderabad, India (April 2023 – July 2024)*
-- Automated Control-M job tracking, reducing monitoring time by 95%.
-- Optimized report generation pipelines, improving efficiency by 33%.
-- Resolved IIS deployment issues, ensuring 99% application uptime.
-- Built an ETL Performance Tracker using Node.js & SQL, cutting issue detection time by 95%.
+#### 📚 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Associate Software Engineer | Optum
-📍 *Hyderabad, India (June 2022 – March 2023)*
-- Automated onboarding document processing, reducing processing time by 75%.
-- Merged Control-M jobs, leading to a 33% cost reduction.
-- Worked cross-functionally to automate workflows, reducing manual effort by 90%.
+#### ⚙️ DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🎯 Achievements & Leadership
--  [2022] Earned the PIONEER award for optimizing Control-M jobs, leading to improved efficiency and cost savings.
-- Led automation initiatives by identifying inefficiencies and streamlining workflows.
-- Collaborated with cross-functional teams to implement enterprise-scale automation solutions.
+---
 
+### 📈 LeetCode Stats
 
-## 🛠️ Technical Skills
-- Languages: Python, Java, JavaScript, Golang, C++, PowerShell, Bash, C, MATLAB  
-- Web Development: Node.js, React.js, Express.js, Django, SQL, MongoDB, MySQL, Redis  
-- Cloud & DevOps: Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
-- AI/ML: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, OpenCV  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mopidevi18?theme=dark&font=Karma&ext=contest)
 
+---
 
-## 💬 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mvenkatesh18/)  
-- 🔗 [Blogs](https://medium.com/@venkateswarlumopidevi18)  
-- 📧 Email: vemo1144@colorado.edu  
+### 💼 Projects
 
-⚡ Fun Fact: I thrive on solving complex problems, optimizing workflows with intelligent automation, and writing blogs on topics that interest me! 🚀
+#### 🔗 [AI Budget Builder Chatbot](https://github.com/Mopidevi18/AI-Budget-Builder)
+- A smart assistant to help users track and plan budgets.
+- Integrated with Plaid for financial data.
+- Uses OpenAI + LangChain for natural interactions.
+
+#### 🔗 [ServiceNow Ticket Automation](https://github.com/Mopidevi18/servicenow-automation)
+- Automated resolution of repetitive ServiceNow tickets using AI.
+- Includes RAG + LLM + vector search (FAISS).
+
+---
+
+### 🏆 Achievements & Highlights
+- ✅ 3.5+ years of software engineering experience
+- 🎯 Built full-stack systems using Next.js, FastAPI, and Supabase
+- 🤖 Passionate about AI Agents, RAG, and LLMs
+- 📍 Based in Boulder, Colorado
+
+---
+
+_**Let’s connect and build something amazing together!**_
