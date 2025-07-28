@@ -60,16 +60,35 @@
 ### 📈 LeetCode Stats
 
 <p align="center">
-    [![LeetCode Stats](https://leetcard.jacoblin.cool/venky1845?theme=dark&font=Karma&ext=contest)](https://leetcode.com/venky1845/)
+  <a href="https://leetcode.com/venky1845/">
+    <img src="https://leetcard.jacoblin.cool/venky1845?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </p>
+
 ---
 
 ### Projects
 
 #### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation)
-Built an end-to-end **instance segmentation system** to detect and classify various types of trash in real-world images using a **Mask R-CNN** model trained on the **TACO dataset**. Designed and deployed a scalable **MLOps pipeline** using **Vertex AI**, **Docker**, and **Cloud Run** for automated model serving and continuous integration.
+Built an end-to-end **instance segmentation system** to detect and classify various types of trash in real-world images using a **Mask R-CNN** model trained on the **TACO dataset**. 
+Designed and deployed a scalable **MLOps pipeline** using **Vertex AI**, **Docker**, and **Cloud Run** for automated model serving and continuous integration.
 
 **Tech Stack:** `Python` · `PyTorch` · `Mask R-CNN` · `Vertex AI` · `Docker` · `GCP` · `CI/CD`
+
+#### [Stock7](https://github.com/Mopidevi18/Stock7)
+Built a **stock analysis platform** that supports role-based access and asynchronous communication using **ZMQ messaging**. Integrated **Finnhub API** to simulate real-time market data, enabling users to explore stock trends and insights in a controlled environment.
+Designed monitoring dashboards with **Prometheus** and **Grafana**, and implemented a robust **CI/CD pipeline** using **Docker** and **GitHub Actions** to ensure scalable and maintainable deployments.
+
+**Tech Stack:** `Python` · `PostgreSQL` · `Flask` · `Prometheus` · `Grafana` · `Docker` · `ZMQ` · `GitHub Actions`
+
+#### [ResumeReviewer](https://github.com/Mopidevi18/ResumeReviewer)
+Developed an AI-powered resume enhancement tool that automatically reviews and rewrites resume bullet points using **LLMs**, **issue detection**, and **RAG-based retrieval**. Parsed PDF resumes, detected vague or weak phrases, and generated improved alternatives using context-aware suggestions.
+
+Integrated a **FAISS vector index** to retrieve top-matching resume lines from a curated dataset, enabling high-quality, job-aligned rewrites. Designed the system with **FastAPI** for modular API interaction and extensibility.
+
+**Tech Stack:** `Python` · `LLM` · `RAG` · `FAISS` · `FastAPI` · `PyMuPDF` · `Pydantic`
+
+
 
 
 
