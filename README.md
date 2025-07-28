@@ -93,6 +93,29 @@ Created an AI-powered resume enhancement tool that rewrites bullet points using 
 **Tech Stack:**  
 `Python` · `LLM` · `RAG` · `FAISS` · `FastAPI` · `PyMuPDF` · `Pydantic`
 
+---
+
+####  [LearnChemE](https://learncheme.github.io/)
+Developing interactive engineering simulations for the **LearnChemE** platform to help professors teach complex chemical engineering concepts more effectively. These browser-based tools let students and instructors adjust parameters in real time and instantly visualize the results, enhancing conceptual understanding through experimentation.
+
+**Tech Stack:** `JavaScript` · `SVG` · `Plotly.js` · `p5.js` · `Webpack`
+
+---
+
+####  [CaseHold-Evaluation](https://github.com/Mopidevi18/CaseHold-Evaluation)
+Designed an NLP system to identify the correct legal conclusion (holding) from a court case by analyzing a case summary and selecting the right option from five choices. Compared models like **T5**, **LegalBERT**, and **GPT-2** on the **CaseHOLD** dataset to evaluate performance on legal classification tasks.
+
+**Tech Stack:** `Python` · `PyTorch` · `Transformers` · `Hugging Face` · `BERT` · `GPT-2` · `T5` · `LSTM`
+
+---
+
+####  [PicSorterAI](https://github.com/Mopidevi18/PicSorterAI)
+Developed an AI-powered photo management system that uses **Google Vision API** and **OpenCV** to recognize and organize images based on facial features via **RESTful APIs**. Deployed as scalable microservices on **Google Cloud** using **Docker**, **Kubernetes**, and **Redis** for efficient processing and storage.
+
+**Tech Stack:** `Python` · `Google Vision API` · `OpenCV` · `Docker` · `Kubernetes` · `Redis` · `GCP`
+
+
+
 
 
 
