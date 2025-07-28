@@ -67,26 +67,32 @@
 
 ---
 
-### Projects
+###  Projects
 
-#### [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation)
-Built an end-to-end **instance segmentation system** to detect and classify various types of trash in real-world images using a **Mask R-CNN** model trained on the **TACO dataset**. 
-Designed and deployed a scalable **MLOps pipeline** using **Vertex AI**, **Docker**, and **Cloud Run** for automated model serving and continuous integration.
+---
 
-**Tech Stack:** `Python` · `PyTorch` · `Mask R-CNN` · `Vertex AI` · `Docker` · `GCP` · `CI/CD`
+####  [SegWaste](https://github.com/Mopidevi18/InstanceSegmentation)
+Built an end-to-end **instance segmentation system** to detect and classify trash in real-world images using a **Mask R-CNN** model on the **TACO dataset**. Designed a scalable **MLOps pipeline** with **Vertex AI**, **Docker**, and **Cloud Run** for continuous deployment.
 
-#### [Stock7](https://github.com/Mopidevi18/Stock7)
-Built a **stock analysis platform** that supports role-based access and asynchronous communication using **ZMQ messaging**. Integrated **Finnhub API** to simulate real-time market data, enabling users to explore stock trends and insights in a controlled environment.
-Designed monitoring dashboards with **Prometheus** and **Grafana**, and implemented a robust **CI/CD pipeline** using **Docker** and **GitHub Actions** to ensure scalable and maintainable deployments.
+**Tech Stack:**  
+`Python` · `PyTorch` · `Mask R-CNN` · `Vertex AI` · `Docker` · `GCP` · `CI/CD`
 
-**Tech Stack:** `Python` · `PostgreSQL` · `Flask` · `Prometheus` · `Grafana` · `Docker` · `ZMQ` · `GitHub Actions`
+---
 
-#### [ResumeReviewer](https://github.com/Mopidevi18/ResumeReviewer)
-Developed an AI-powered resume enhancement tool that automatically reviews and rewrites resume bullet points using **LLMs**, **issue detection**, and **RAG-based retrieval**. Parsed PDF resumes, detected vague or weak phrases, and generated improved alternatives using context-aware suggestions.
+####  [Stock7](https://github.com/Mopidevi18/Stock7)
+Developed a **stock analysis platform** with **ZMQ messaging** and **role-based access control**. Integrated **Finnhub API** to simulate real-time market data. Built monitoring dashboards with **Prometheus** and **Grafana**, and deployed using **Docker** and **GitHub Actions**.
 
-Integrated a **FAISS vector index** to retrieve top-matching resume lines from a curated dataset, enabling high-quality, job-aligned rewrites. Designed the system with **FastAPI** for modular API interaction and extensibility.
+**Tech Stack:**  
+`Python` · `PostgreSQL` · `Flask` · `Prometheus` · `Grafana` · `Docker` · `ZMQ` · `GitHub Actions`
 
-**Tech Stack:** `Python` · `LLM` · `RAG` · `FAISS` · `FastAPI` · `PyMuPDF` · `Pydantic`
+---
+
+####  [ResumeReviewer](https://github.com/Mopidevi18/ResumeReviewer)
+Created an AI-powered resume enhancement tool that rewrites bullet points using **LLMs**, **issue detection**, and **RAG-based retrieval**. Parsed resumes from PDFs, matched weak points using **FAISS vector search**, and generated rewrites via a **FastAPI** service.
+
+**Tech Stack:**  
+`Python` · `LLM` · `RAG` · `FAISS` · `FastAPI` · `PyMuPDF` · `Pydantic`
+
 
 
 
